@@ -5,5 +5,5 @@
 - 🌱 I'm interested in data engineering and web development.
 
 📚 Education
-- 🎓 M.Sc. in Computer Science (Data and Web Engineering Track)
-- 🎓 B.Sc. in Electrical and Computer Engineering (Computer Engineering Track)
+- 🎓 M.Sc. in Computer Science (Ongoing)
+- 🎓 B.Sc. in Electrical and Computer Engineering
